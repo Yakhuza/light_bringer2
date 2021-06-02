@@ -70,7 +70,7 @@ close(){
 }
 akhir(){
         echo " Tools ini gratis"
-        echo " Spesial 1.000.000 subscriber HackBae"
+        echo " Buatan Nazril Ilham"
         echo " Dilarang menjual belikan tools ini"
         echo " Dilarang menyalahgunakan tools ini :)"
         echo "==================================="
